@@ -16,6 +16,10 @@ Currency Minds is a simple yet powerful currency converter and time series data 
 
 - **[Streamlit](https://streamlit.io)**: The user interface is built using Streamlit, a Python library for creating interactive web applications with minimal effort.
 
+## Demo
+
+Check out the live demo: [Currency Minds Demo](https://currency-minds.streamlit.app)
+
 ## Getting Started
 
 1. Clone the repository:
