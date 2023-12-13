@@ -39,7 +39,7 @@ This will launch the app in your default web browser.
 1. ### Currency Conversion:
     - Choose the source and target currencies from the dropdown menus.
     - Enter the amount you want to convert.
-    - Click the "Convert" button to see the converted amount.
+    - And you will see the converted amount.
 2. ### Time Series Data Visualization:
     - Navigate to the "Time Series" section.
     - Select the currencies and time range for the data.
